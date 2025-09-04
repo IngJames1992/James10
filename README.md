@@ -1,49 +1,38 @@
-[I believe in center aligned 🤲]: #
+![](https://github.com/bhaveshlohana/bhaveshlohana/raw/master/animated-name.gif)
 
-<div align="center">
-  
-[this is for the picture]: #	
-<div id="header">
-<img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-</div>
-  
-[badges i got it from shields.io ... anyone can copy and paste the link and change the parameters to test out, atleast thats how i did it]: #  
-<div id="badges">
-<a href="https://www.linkedin.com/in/shaunak-chandra-6b3363215/">
-  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-</a>
-<a href="https://www.instagram.com/shaunak_chandra/">
-  <img src="https://img.shields.io/badge/Instagram-red?style=for-the-badge&logo=instagram&logoColor=white" alt="Youtube Badge"/>
-</a>
-<a href="mailto:aqchandra15@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-white?style=for-the-badge&logo=gmail&logoColor=red" alt="Youtube Badge"/>
-</a>
-<a href="https://leetcode.com/aqchandra15/">
-  <img src="https://img.shields.io/badge/Leetcode-black?style=for-the-badge&logo=leetcode&logoColor=yellow" alt="Youtube Badge"/>
-</a>
-</div>
+Hello there, I'm Bhavesh Lohana! I am currently completing my Bachelors in Computer Science. And when I am not working, you'll find me reading a sci-fi novel.
+
+## Currently I'm:
+
+- Working on several AI/ML projects
+- Competitve Programming in JS, Python and C++
+- Starting UI/UX
+- Learning App Development
 
 
-### Hi there 👋🎉
+## Languages I use:
 
-My name is **Shaunak Chandra** and welcome to my profile.
+![C](https://img.shields.io/badge/-C-000000?style=flat&logo=C)
+![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
+![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=HTML5)
+![Java](https://img.shields.io/badge/-Java-000000?style=flat&logo=Java&logoColor=007396)
+![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
+![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=MySQL)
+![C++](https://img.shields.io/badge/-C++-000000?style=flat&logo=C%2B%2B&logoColor=00599C)
 
-I am currently pursuing B.Tech degree in Computer Science in Kalinga Institute of Industrial Technology. Coding and Web Designing enthusiast looking for an opportunityto show my skills. My moto is to learn from any situation, grow as an individual and always help others.
+## Technologies I know:
 
-<img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="500" />
-  
+![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git&logoColor=F05032)
+![jQuery](https://img.shields.io/badge/-jQuery-000000?style=flat&logo=jQuery&logoColor=0769AD)
+![Node.js](https://img.shields.io/badge/-Node.js-000000?style=flat&logo=node.js&logoColor=339933)
+![React](https://img.shields.io/badge/-React-000000?style=flat&logo=React&logoColor=61DAFB)
+![Electron](https://img.shields.io/badge/-Electron-000000?style=flat&logo=Electron&logoColor=FFFFFF)
 
 
-### :bar_chart: GitHub stats
 
-[i got this from a github repo: anuraghazra/github-readme-stats it was nice actually big shoutout to him]: #
+<img align="" height='130px' src="https://github-readme-stats.vercel.app/api?username=bhaveshlohana&hide_title=true&show_icons=true&include_all_commits=true&line_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite" /><img align="" height='130px' src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhaveshlohana&hide_title=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite" />
 
-[![Shaunak's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kingsky1t&count_private=true&show_icons=true&theme=dark)](https://github.com/Kingsky1t/github-readme-stats)
+----
+Credit: [bhaveshlohana](https://github.com/bhaveshlohana)
 
-![Top Languages Used](https://github-readme-stats.vercel.app/api/top-langs/?username=Kingsky1t&show_icons=true&theme=dark)
-
- 
-</div>
-------
-Credits:[Kingsky1t](https://github.com/Kingsky1t)
-Last Edited:05/04/23
+Last Edited on: 23/09/2020
